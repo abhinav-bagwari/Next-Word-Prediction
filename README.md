@@ -12,7 +12,7 @@ Counting of things in NLP is based on a corpus. NLTK (Natural Language Toolkit) 
 of corpora. For our project we'll be using the Brown corpus. The Brown corpus is a 1-million-word 
 collection of samples from 500 written texts from different genres (newspaper, novels, non-fiction etc.). 
 There are tasks such as spelling error detection, word prediction for which the location of the punctuation is 
-important. Our application counts punctuation as words.
+important.The application counts punctuation as words.
 
 ## 2. N-Grams Models: 
 Let’s begin with the task of computing P(w|h), the probability of a word w given some history h. Suppose 
